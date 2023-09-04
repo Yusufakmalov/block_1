@@ -1,0 +1,8 @@
+a = input(enter first number:)
+b = input(enter second number:)
+c = input(enter any math operator like (+, -, *, /)
+
+if c == +:
+print(a + b)
+else c == -:
+print(
